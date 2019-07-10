@@ -11,7 +11,8 @@ public class MasterMind {
                         System.out.println(i);
                         System.out.println(j);
                         System.out.println(k);
-                    }
+                	/*Hello, this is a new statement*/    
+			}
                 }
     }
 }
