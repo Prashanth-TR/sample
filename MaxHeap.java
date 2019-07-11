@@ -73,8 +73,7 @@ public class MaxHeap
 
     public static void Amreen()
     {
-        int x =10;
-        System.out.println(x);
+        System.out.println("Just to merge this thing");
     }
     public static void main(String args[])
     {
