@@ -87,6 +87,6 @@ public class MaxHeap
         heap.insert(1);
         heap.printHeap();
 
-        MaxHeap
+        MaxHeap.Amreen();
     }
 }
